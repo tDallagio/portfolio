@@ -1,0 +1,60 @@
+*{
+    margin:0 auto;
+    font-family: 'Roboto Condensed', sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.encabezado{
+    background-color: #c8c9b5;
+}
+
+.navBar{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.foto{
+    width: 100px;
+}
+
+.acercaDeMi{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+
+}
+
+.contacto{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: blueviolet;
+}
+
+.portafolio{
+    margin: 100px 0px;
+
+}
+
+.portafolio img{
+    border-radius: 10px;
+}
+
+.containerFooter{
+    background-color: gainsboro;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;  
+}
+
+.Copyright{
+    background-color: gray;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+
+}
